@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Doğukan Uygun.</h1>
 <br/>
-<h3 align="center">I develop projects using MongoDB, Express, React and NodeJS.</h3>
+<h3 align="center">I develop web apps using MongoDB, Express, React and NodeJS.</h3>
 <br/>
 <p align="left">
 </p>
