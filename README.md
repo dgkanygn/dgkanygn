@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Doğukan Uygun.</h1>
-<h3 align="center">I'm trying to thrive on Frontend. I also used NodeJS/Express and MongoDB on the backend side.</h3>
+<h3 align="center">I'm trying to thrive on React. I also used NodeJS/Express and MongoDB on the backend side.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
