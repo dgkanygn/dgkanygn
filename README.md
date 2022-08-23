@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Doğukan Uygun.</h1>
 <h3 align="center">I'm currently trying to develop myself in React.</h3>
 <h3 align="center">I also used NodeJS/Express and MongoDB on the backend side.</h3>
-
-
+<br/>
+<br/>
 <p align="center">
 </p>
 
