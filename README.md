@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Doğukan Uygun.</h1>
 <h3 align="center">I'm currently trying to develop myself in React. I also used NodeJS/Express and MongoDB on the backend side.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
