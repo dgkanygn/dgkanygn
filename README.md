@@ -3,7 +3,7 @@
 <h3 align="center">I also used NodeJS/Express and MongoDB on the backend side.</h3>
 
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
