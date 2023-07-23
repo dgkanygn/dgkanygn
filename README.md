@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Doğukan Uygun.</h1>
+<h1 align="center">Hello, I'm Doğukan</h1>
 <br/>
 <h3 align="center">I develop web apps using MongoDB, Express, React and NodeJS.</h3>
 <br/>
