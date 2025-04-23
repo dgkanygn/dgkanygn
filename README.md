@@ -20,8 +20,11 @@
 ### ⚡ Little About Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dgkanygn)  
-- 📍 Eskişehir, Türkiye  
-- 🏢 **Mountain Yapay Zeka**
+- 📍 Eskişehir, Turkey  
+- 🎓 Eskişehir Technical University  
+- 🏢 Frontend Developer at Mountain AI 
+- 💻 JavaScript | React
+
   
 ## 🔥 My GitHub Streak
 
