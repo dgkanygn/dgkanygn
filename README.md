@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Doğukan</h1>
-<h3 align="left">JavaScript & Frontend Developer from Eskişehir, Turkey</h3>
+<h3 align="left">Fullstack Developer from Eskişehir, Turkey</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dgkanygn&label=Profile%20views&color=0e75b6&style=flat" alt="dgkanygn" />
@@ -22,15 +22,15 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="background-color: white;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </p>
 
 ### ⚡ Little About Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dgkanygn)  
 - 📍 Eskişehir, Turkey  
-- 🎓 Eskişehir Technical University  
-- 🏢 Frontend Developer at Mountain AI 
-- 💻 JavaScript | React
+- 🎓 Eskişehir Technical University
 
   
 ## 🔥 My GitHub Streak
